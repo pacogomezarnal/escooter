@@ -1,0 +1,49 @@
+{
+    "data":[
+    {
+        "id":1,
+        "marca": "Xiaomi",
+        "web" : "https://www.mi.com/es/life-style/#vehicle",
+        "modelos": [
+        {
+            "id":1,
+            "modelo": "Xiaomi Mi Electric Scooter Pro"
+        },
+        {
+            "id":2,
+            "modelo": "Xiaomi Electric Scooter 4 Go"
+        },
+        {
+            "id":5,
+            "modelo": "Xiaomi Mi Electric Scooter"
+        }
+        ]
+    },
+    {
+        "id":2,
+        "marca": "Cecotec",
+        "web" : "https://cecotec.es/es/patinetes-electricos",
+        "modelos": [
+        {
+            "id":3,
+            "modelo": "Bongo Serie M"
+        },
+        {
+            "id":4,
+            "modelo": "Bongo Serie S"
+        }
+        ]
+    },
+    {
+        "id":3,
+        "marca": "Segway",
+        "web" : "https://es-es.segway.com/",
+        "modelos": [
+        {
+            "id":6,
+            "modelo": "Segway-Ninebot"
+        }
+        ]
+    }
+    ]
+}
